@@ -15,20 +15,20 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
 
 ## List of Top 110 Unicorn Startups in India
 
-|Startup Name |	Industry |	Founding Year |	Unicorn Entry Year |	Profit/Loss FY22 |	Current Valuation |	Acquisitions |	Status |
-|------------ |	-------- |	------------- |	------------------ |	---------------- |	----------------- |	------------ |	------ |
-| Zepto |	Quick Commerce |	2021 |	2023 |	-$47.1 Million |	$1.4 Billion |	- |	Private |
-| Molbio Diagnostics |	HealthTech, MedTech |	2010 |	2022 |	NA |	$1.5 Billion |	1 |	Private |
-| Tata 1mg |	HealthTech |	2015 |	2022 |	-$65 Million |	$1.25 Billion |	- |	Acquired
-| Shiprocket |	Logistics |	2017 |	2022 |	-$11.67 Million |	$1.3 Billion |	5 |	Private |
-| 5ire |	Fintech |	2021 |	2022 |	NA |	$1.5 Billion |	1 |	Private |
-| OneCard |	Fintech |	2018 |	2022 |	-$22.8 Million |	$1.4 Billion |	0 |	Private |
-| PhysicsWallah |	Edtech |	2016 |	2022 |	$16.4 Million |	$1.1 Billion |	6 |	Private |
-| LeadSquared |	SaaS- CRM |	2011 |	2022 |	-$7.7 Million |	$1 Billion |	- |	Private |
-| ElasticRun |	E-commerce Logistics |	2015 |	2022 |	-$45.1 Million |	$1.5 Billion |	- |	Private |
-| LEAD |	Edtech |	2012 |	2022 |	-$49.6 Million |	$1.1 Billion |	2 |	Private |
-| Purplle |	E-commerce Personal Care |	2012 |	2022 |	-$25 Million |	$1.1 Billion |	1 |	Private |
-| DealShare |	E-commerce |	2018 |	2022 |	-$53.8 Million |	$1.7 Billion |	0 |	Private |
+|Startup Name |	Industry |	Founding Year |	Unicorn Entry Year |	Profit/Loss FY22 |	Current Valuation |	Acquisitions |	Status | UN SDG GOALS |
+|------------ |	-------- |	------------- |	------------------ |	---------------- |	----------------- |	------------ |	------ | ------------ |
+| Zepto |	Quick Commerce |	2021 |	2023 |	-$47.1 Million |	$1.4 Billion |	- |	Private | UNKNOWN |
+| Molbio Diagnostics |	HealthTech, MedTech |	2010 |	2022 |	NA |	$1.5 Billion |	1 |	Private | SDG_3 |
+| Tata 1mg |	HealthTech |	2015 |	2022 |	-$65 Million |	$1.25 Billion |	- |	Acquired | SDG_3 |
+| Shiprocket |	Logistics |	2017 |	2022 |	-$11.67 Million |	$1.3 Billion |	5 |	Private | SDG_13, SDG_11, SDG_2, SDG_9 |
+| 5ire |	Fintech |	2021 |	2022 |	NA |	$1.5 Billion |	1 |	Private | UNKNOWN |
+| OneCard |	Fintech |	2018 |	2022 |	-$22.8 Million |	$1.4 Billion |	0 |	Private | UNKNOWN |
+| PhysicsWallah |	Edtech |	2016 |	2022 |	$16.4 Million |	$1.1 Billion |	6 |	Private | SDG_4, SDG_1, SDG_11, SDG_3 |
+| LeadSquared |	SaaS- CRM |	2011 |	2022 |	-$7.7 Million |	$1 Billion |	- |	Private | UNKNOWN |
+| ElasticRun |	E-commerce Logistics |	2015 |	2022 |	-$45.1 Million |	$1.5 Billion |	- |	Private | UNKNOWN |
+| LEAD |	Edtech |	2012 |	2022 |	-$49.6 Million |	$1.1 Billion |	2 |	Private | UNKNOWN |
+| Purplle |	E-commerce Personal Care |	2012 |	2022 |	-$25 Million |	$1.1 Billion |	1 |	Private | UNKNOWN |
+| DealShare |	E-commerce |	2018 |	2022 |	-$53.8 Million |	$1.7 Billion |	0 |	Private | UNKNOWN |
 | Xpressbees |	E-commerce Logistics |	2015 |	2022 |	-$3.39 Million |	$1.2 Billion |	1 |	Private |
 | Open |	Fintech |	2017 |	2022 |	-$20.9 Million |	$1 Billion |	2 |	Private |
 | Games24x7 |	Gaming |	2006 |	2022 |	-$39 Million |	$2.5 Billion |	0 |	Private |
